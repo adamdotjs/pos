@@ -22,7 +22,7 @@ export const LINKS = [
 		sublinks: [
 			{
 				name: "Digital",
-				path: "/products/digital",
+				path: "/products/digitalPrint",
 				icon: <HiOutlineFingerPrint />,
 			},
 			{
@@ -32,12 +32,12 @@ export const LINKS = [
 			},
 			{
 				name: "Signage",
-				path: "/products/signage",
+				path: "/products/wideFormat",
 				icon: <HiOutlineFlag />,
 			},
 			{
-				name: "Mailing",
-				path: "/products/mailing",
+				name: "Generic",
+				path: "/products/generic",
 				icon: <HiOutlineTruck />,
 			},
 		],
